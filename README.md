@@ -1,4 +1,4 @@
-## Hi there 🪷👋
+## Is building small stuff for now... 🪷👋
 
 🌱 I’m currently learning javascript...<br>
 ⚡ Fun fact: I very much adore Seele Vollerei...
