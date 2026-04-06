@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🪷👋
+
+🌱 I’m currently learning javascript...
+⚡ Fun fact: I very much adore Seele Vollerei...
+
 
 <!--
 **duskoftheend/duskoftheend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
