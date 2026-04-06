@@ -1,6 +1,6 @@
 ## Hi there 🪷👋
 
-🌱 I’m currently learning javascript...
+🌱 I’m currently learning javascript...<br>
 ⚡ Fun fact: I very much adore Seele Vollerei...
 
 
